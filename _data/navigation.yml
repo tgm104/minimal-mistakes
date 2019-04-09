@@ -1,9 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Telkku"
+    url: www.telkku.com
+  - title: "Youtube"
+    url: https://www.youtube.com
+  - title: "Jisho"
+    url: https://jisho.org
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "About"
+    url: https://tgm104.github.io/tgm104/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
