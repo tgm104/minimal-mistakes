@@ -5,16 +5,21 @@ permalink: /about/
 author_profile: true
 ---
 
-Finnish him!
+I am an IT engineer from Finland. Currently studying for my second degree while working. Figured I should create an account on GitHub and use the Pages for a personal portfolio of sorts. The Pages use a Jekyll-based theme called Minimal Mistakes. My future plans are to complete my second degree, move abroad for work and get my Master's Degree someday.
 
-Single line blockquote:
+##Education
 
-> Stay hungry. Stay foolish.
+Bachelor of Business Administration
+> Satakunta University of Applied Sciences, 2018-2020, currently 135 ECTS, Business Management
+> Jyväskylä University of Applied Sciences, 2017-2018
 
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
+Bachelor of Science in Computer Engineering
+> Satakunta University of Applied Sciences, 2011-2016, 275 ECTS, Radionetworks
+
+Finnish Matriculation Examination, Diploma in Information Technology and Media
+> Kupittaa High School of Information Tech and Media, 2007-2010
+
+##Skills
 
 Definition List Title
 :   Definition list division.
