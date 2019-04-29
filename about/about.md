@@ -10,13 +10,18 @@ I am an IT engineer from Finland. Currently studying for my second degree while 
 ## Education
 
 > Bachelor of Business Administration
+
 Satakunta University of Applied Sciences, 2018-2020, currently 135 ECTS, Business Management
 Jyväskylä University of Applied Sciences, 2017-2018
 
+
 > Bachelor of Science in Computer Engineering
+
 Satakunta University of Applied Sciences, 2011-2016, 275 ECTS, Radionetworks
 
+
 > Finnish Matriculation Examination, Diploma in Information Technology and Media
+
 Kupittaa High School of Information Tech and Media, 2007-2010
 
 ## Skills
